@@ -1,0 +1,4 @@
+1::Game 1 - Number to aim: ::21
+2::Game 2 - Number of guesses: ::3
+3::Points for winning: ::10
+4::Go back to main screen ::0
